@@ -59,9 +59,10 @@ strong {
   color: rgba(0, 0, 0, 0.2);
 }
 .weather-app-icon {
-  font-size: 40px;
+  width: 50px;
   margin-top: 5px;
   margin-left: 10px;
+  padding-right: 5px;
 }
 .weather-temperature {
   font-size: 50px;
