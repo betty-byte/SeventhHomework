@@ -88,8 +88,10 @@ strong {
   margin-bottom: 10px;
 }
 .weather-forecat-icon {
-  text-align: center;
-  font-size: 30px;
+  width: 75px;
+  height: 75px;
+  display: block;
+  margin: 0 auto;
 }
 .weather-forecat-temperatures {
   text-align: center;
