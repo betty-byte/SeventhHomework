@@ -72,7 +72,6 @@ function getForecastApi(city) {
 }
 
 function displayForecast(response) {
-  console.log(response);
   let forecastHtml = "";
 
   response.data.daily.forEach(function (day, index) {
